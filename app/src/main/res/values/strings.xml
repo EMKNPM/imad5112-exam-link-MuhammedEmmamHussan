@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">imad exam real</string>
+    <string name="add_new_gear">Add New Gear</string>
+    <string name="item_name">Item Name *</string>
+    <string name="category">Category</string>
+    <string name="quantity">Quantity *</string>
+    <string name="comments_notes">Comments / Notes</string>
+    <string name="save_gear">Save Gear</string>
+    <string name="cancel">Cancel</string>
+    <string name="campfire_logo">Campfire Logo</string>
+    <string name="campsite_commander">Campsite Commander</string>
+    <string name="your_adventure_inventory_manager">Your Adventure Inventory Manager</string>
+</resources>
